@@ -1,8 +1,8 @@
 function PrimaryHeading() {
   return (
     <h1 className="text-5xl font-bold leading-normal text-white">
-      MAKE YOUR BODY
-      <br /> <span className="font-regular">FIT & PERFECT</span>
+      WORLD CLASS
+      <br /> <span className="font-regular">AUTHENTIC MUAY THAI</span>
     </h1>
   );
 }

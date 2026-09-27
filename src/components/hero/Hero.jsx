@@ -10,7 +10,7 @@ function Hero() {
         <div className="relative z-10 grid xl:grid-cols-[1fr,250px]">
           <div className="space-y-5 xl:justify-self-end">
             <SecondaryHeading textColor="black" bgColor="white">
-              Find your energy
+              Hnl, Hawaii
             </SecondaryHeading>
 
             <PrimaryHeading />

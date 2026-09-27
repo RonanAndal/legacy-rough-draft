@@ -10,7 +10,7 @@ function FeatureCards() {
     <div className="mt-[-50px] grid gap-14 2xl:grid-cols-3 2xl:gap-6">
       <div className={cardStyles}>
         <img src={progression} alt="progression" className="h-auto w-20" />
-        <h5 className="text-2xl font-bold uppercase">Progression</h5>
+        <h5 className="text-2xl font-bold uppercase">Muay Thai</h5>
         <p className="font-medium">
           Our team of experts will work with you to create a customized plan
           that helps you achieve success one step at a time.
@@ -18,7 +18,7 @@ function FeatureCards() {
       </div>
       <div className={cardStyles}>
         <img src={workout} alt="workout" className="h-auto w-20" />
-        <h5 className="text-2xl font-bold uppercase">Workout</h5>
+        <h5 className="text-2xl font-bold uppercase">Brazillian Jiu Jitsu</h5>
         <p className="font-medium">
           With a variety of workouts to choose from, you&apos;ll have everything
           you need to get into the best shape of your life.
@@ -26,7 +26,7 @@ function FeatureCards() {
       </div>
       <div className={cardStyles}>
         <img src={nutritions} alt="nutritions" className="h-auto w-20" />
-        <h5 className="text-2xl font-bold uppercase">Nutritions</h5>
+        <h5 className="text-2xl font-bold uppercase">Womens Muay Thai</h5>
         <p className="font-medium">
           Our team will work with you to create a personalized meal plan that
           helps you reach your specific health goals.
