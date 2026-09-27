@@ -21,7 +21,7 @@ function Facilities() {
           alt="equipments"
           className="hover:rotate-y-180 h-auto w-16 transition-all duration-700"
         />
-        <h4 className="w-48 text-xl font-bold uppercase">Modern equipments</h4>
+        <h4 className="w-48 text-xl font-bold uppercase">Modern equipment</h4>
       </div>
       <div className="flex flex-col items-center gap-4">
         <img
